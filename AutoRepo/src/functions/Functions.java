@@ -1,10 +1,11 @@
+package functions;
 
 public class Functions {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		addition();
+		Functions.addition();
 		
 		int c = addition2(2, 45);
 		
@@ -23,7 +24,7 @@ public class Functions {
 		System.out.println(" and your percentage is "+percent);
 		
 	}
-public static void addition()
+public static void addition() throws InterruptedException
 {
 	int a =10;
 	int b=20;
