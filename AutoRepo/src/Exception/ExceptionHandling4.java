@@ -2,7 +2,7 @@ package Exception;
 
 import Constructor.Cars;
 
-public class ExceptionHandling3 {
+public class ExceptionHandling4 {
 
 	public static Cars car;
 	
@@ -15,11 +15,10 @@ public class ExceptionHandling3 {
 			
 			System.out.println(10/2);
 			
-			Thread.sleep(3000);
 			
 			String str = "Silver";
-			System.out.println(str.charAt(9));
-			car.features();
+			System.out.println(str.charAt(3));
+		//	car.features();
 
 		}
 		
@@ -29,6 +28,12 @@ public class ExceptionHandling3 {
 		{
 	System.out.println(e.getMessage());
 		}
+		
+		finally 
+		{
+			System.out.println("Please like , subscribe and share my videos");
+		}
+		
 	}
 
 	
