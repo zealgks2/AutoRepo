@@ -1,0 +1,25 @@
+Collection (Interface)
+	-List (Interface)
+		-Arraylist (class)
+		-Linkedlist (class)
+		-vector (class)
+	-Set (Interface)
+		-Hashset (class)
+		-Linked Hashset (class)
+		-Tree set (class)
+		
+ArrayList													LinkedList
+-Follows dynamic array data structure			-follows doubly linkedlist datastructure
+-Insertion or accessing is better than			-data manipulation linkedlist is better than
+linked list										Array List
+- Non synchronized / not thread safe			- non synchronized / not thread safe
+- comparatively new classes						-comparatively new classes
+- increases 50% size							- increases 100% size
+
+Vector
+-Synchronized / Thread safe 
+- Legacy class		
+
+
+Lists allow duplicate data 
+Sets allow only unique data 
