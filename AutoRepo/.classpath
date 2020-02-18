@@ -6,5 +6,18 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/Users/apollozealot/Documents/AutoRepo/AutoRepo/AutoRepo/src/Jars/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
