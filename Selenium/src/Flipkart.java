@@ -75,3 +75,41 @@ System.out.println(dr.findElements(By.xpath("//div[text()='Available offers']"))
 	}
 
 }
+
+
+
+
+//Types of xpath access 
+
+/* 1) Parent child 
+2) Preceding -following 
+3) preceding sibling - following sibling 
+4) ancestors - descendent 
+
+//span[text()='Men']//following::a[text()='Top wear']//following::a[text()='Shirts']
+
+//a[text()='Suits & Blazers']//preceding::a[text()='Shirts']
+
+//a[text()='Suits & Blazers']/..
+
+//a[text()='Suits & Blazers']//parent::li
+
+//a[text()='Suits & Blazers']/..//preceding-sibling::li/a[text()='Shirts']
+
+//a[text()='Shirts']//preceding::span[text()='Men']
+
+//a[text()='Top wear']/..//following-sibling::li/a[text()='Shirts']
+ 
+//a[text()='Shirts']//ancestor::li/span[text()='Men']
+ 
+//span[text()='Men']/../descendant::a[text()='Shirts'] 
+  
+//p[contains(.,'Automated Continuous Testing')]//following-sibling::div/div/a[contains(.,'Request a Demo')]  
+  
+*/
+
+
+
+
+
+
